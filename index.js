@@ -1,5 +1,5 @@
 
 
-let a = 'hi'
+let a = 'hi2'
 
 console.log(a)
